@@ -1,0 +1,3 @@
+<view class="container">
+    <view class="box" bindtap="bindBoxTap"></view>
+</view>
